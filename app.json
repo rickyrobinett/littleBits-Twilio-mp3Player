@@ -2,14 +2,13 @@
     "name": "Christmas Cheer",
     "description": "Twilio + littleMits + Christmas",
     "repository": "https://github.com/rickyrobinett/littleBits-Twilio-mp3Player",
-    "logo": "https://static1.twilio.com/packages/company/img/logos_icon_round.png",
     "keywords": ["twilio", "PHP", "laravel", "MMS", "littleBits"],
     "env": {
       "CLOUDBIT_ID": {
         "description": "Your littleBits cloudBit device id",
         "required": true
       },
-      "CLOUDBIT_TOKEN'": {
+      "CLOUDBIT_TOKEN": {
         "description": "Your littleBits cloudBit auth token",
         "required": true
       }
